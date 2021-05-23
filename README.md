@@ -11,3 +11,6 @@ Create a mobileapp that will look up people using open API in the SWAPI (https:/
 
 # Start Application
 - run `npx react-native run-android`
+
+# APK
+- You can get the apk release for testing in the `release` folder
