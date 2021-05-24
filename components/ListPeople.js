@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Axios from 'axios';
 import { StyleSheet, FlatList, View, Text, TouchableOpacity, ActivityIndicator } from 'react-native';
 
-class HomeScreen extends Component {
+class ListPeople extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -121,4 +121,4 @@ const styles = StyleSheet.create({
   },
 })
 
-export default HomeScreen;
+export default ListPeople;
